@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![alt text](https://github.com/scaret/scaret/blob/master/gif.gif?raw=true)
+
 <!--
 **scaret/scaret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
